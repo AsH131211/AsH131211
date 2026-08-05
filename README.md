@@ -93,17 +93,7 @@ class AsH:
 - 🧠 Data Structures & Algorithms
 - 🚀 Building better projects every day
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AsH131211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsH131211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -126,12 +116,8 @@ class AsH:
   </a>
 </p>
 
----
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Moving+Forward.;Thanks+for+visiting+my+GitHub!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
+<p align="center">
 
 **Built with ❤️, and lots of curiosity.**
 
-</div>
+</p>
