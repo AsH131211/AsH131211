@@ -128,54 +128,52 @@ class AsH:
 
 ---
 
-# 📊 GitHub Stats
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AsH131211&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsH131211&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AsH131211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsH131211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=AsH131211&theme=tokyonight&hide_border=true"/>
+
+<img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<p align="center">
+
+<i>Automatically generated every day using GitHub Actions.</i>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsH131211&theme=tokyo-night&hide_border=true&radius=12"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AsH131211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-> **⚠️ Note:** The snake animation appears **only after** you add the GitHub Action workflow (`snake.yml`) to generate it.
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AsH131211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
----
-
-# 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
 
-<a href="mailto:your_email@example.com">
+<a href="mailto:aswanth.ash1312@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -183,9 +181,12 @@ class AsH:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<!-- Uncomment after creating LinkedIn -->
+<!--
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+-->
 
 </p>
 
@@ -193,8 +194,11 @@ class AsH:
 
 <div align="center">
 
-## ⚔️ 心臓を捧げよ ⚔️
+# ⚔️ 心臓を捧げよ ⚔️
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Moving+Forward.;Thanks+for+visiting+my+GitHub!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
+
+</div>
 > *"Keep moving forward."*
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
