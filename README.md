@@ -22,9 +22,9 @@ class AsH:
     def __init__(self):
         self.name        = "AsH"
         self.role        = "Computer Engineering Student"
-        self.os          = ["NixOS", "Linux"]
+        self.os          = ["CachyOS", "Linux"]
 
-        self.languages   = ["Python", "C", "Java", "JavaScript", "Haskell", "Bash"]
+        self.languages   = ["Python", "C", "Java", "JavaScript", "Haskell", "Bash","HTML"]
 
         self.interests   = [
             "Artificial Intelligence",
@@ -33,8 +33,7 @@ class AsH:
             "Open Source",
         ]
 
-    def motto(self):
-        return "心臓を捧げよ ⚔️"
+
 ```
 
 ---
