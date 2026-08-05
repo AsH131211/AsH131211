@@ -2,11 +2,14 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # allows manual trigger from GitHub Actions tab
+    - cron: "0 0 * * *"   # every day at midnight UTC
+  workflow_dispatch:        # manual trigger from Actions tab
   push:
     branches:
       - main
+
+permissions:
+  contents: write   # needed to push to the output branch
 
 jobs:
   generate:
@@ -27,5 +30,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "ci: update contribution snake"
+          keep_history: false
+          allow_empty_commit: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
