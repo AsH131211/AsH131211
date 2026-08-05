@@ -40,7 +40,7 @@ class AsH:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ###  Languages
 
@@ -93,7 +93,7 @@ class AsH:
 -  Building better projects every day
 
 
-
+---
 
 <p align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
