@@ -104,7 +104,7 @@ class AsH:
 
 ##  Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:aswanth.ash1312@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -114,7 +114,7 @@ class AsH:
   </a>
 </p>
 
-<p align="center">
+<p>
 
 **Built with ❤️, and lots of curiosity.**
 
