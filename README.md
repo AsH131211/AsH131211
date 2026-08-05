@@ -1,55 +1,74 @@
-<h1 align="center">Hi 👋, I'm AsH</h1>
-<h3 align="center">Computer Engineering Student | Python Developer | Linux Enthusiast</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=AsH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20⚡&descAlignY=58"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm AsH</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Python+Developer;Learning+AI+and+Backend+Development;Always+Building+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Python+Developer;Linux+Enjoyer;Anime+%7C+Gaming+%7C+Open+Source;Shinzou+Wo+Sasageyo!+⚔️" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AsH131211&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# ⚔️ About Me
 
-- 🎓 Computer Engineering Student
-- 🐍 Mainly working with **Python**
-- 🐧 Linux enthusiast
-- 🌱 Currently learning **AI, Backend Development, and Data Structures**
-- 💡 I enjoy building projects that solve real problems.
-- 🎯 Goal: Become a skilled Software Engineer.
+```python
+class AsH:
+
+    def __init__(self):
+        self.name = "AsH"
+        self.role = "Computer Engineering Student"
+        self.languages = ["Python","C","Java","JavaScript"]
+        self.web = ["HTML","CSS"]
+        self.os = "Linux 🐧"
+        self.hobbies = [
+            "Coding",
+            "Anime",
+            "Gaming",
+            "Open Source"
+        ]
+
+    def motto(self):
+        return "Shinzou Wo Sasageyo! ⚔️"
+```
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🌱 Currently Learning
 
-🔹 **Terminal Chatbot**
-> A chatbot built completely in Python for the terminal.
-
-🔹 **LeetCode Solutions**
-> My collection of DSA and algorithm solutions.
-
-🔹 **NixOS Config**
-> Personal NixOS configuration files.
-
-🔹 **CachyOS Setup**
-> Linux customization and setup.
+- 🤖 Artificial Intelligence
+- 🧠 Data Structures & Algorithms
+- 🌐 Backend Development
+- 🐧 Linux & System Programming
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -61,7 +80,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -71,18 +90,44 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
-📧 Email: aswanth.ash1312@gmail.com
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-## 💭 Favorite Quote
+# 🎯 Current Goals
 
-> "First, solve the problem. Then, write the code." — John Johnson
+- 🚀 Build more Open Source Projects
+- 💻 Become a Full Stack Developer
+- 🤖 Learn AI & Machine Learning
+- 🌟 Contribute to Open Source
+
+---
+
+
+<p align="center">
+
+<img src="https://media.tenor.com/8MZKJx6A3EIAAAAC/levi-ackerman.gif" width="450"/>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+### ⭐ Thanks for visiting!
+
+*"Keep coding. Keep learning. Keep moving forward."*
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
 </p>
