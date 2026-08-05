@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AsH</h1>
+<h1 align="center">Hi , I'm AsH</h1>
 
 <h3 align="center">
 Computer Engineering Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; Linux Enthusiast
@@ -14,7 +14,7 @@ Computer Engineering Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; Li
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```python
 class AsH:
@@ -42,7 +42,7 @@ class AsH:
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -51,29 +51,29 @@ class AsH:
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🌐 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 AI & Data Science
+###  AI & Data Science
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📚 Libraries & Frameworks
+###  Libraries & Frameworks
 
 ![Rich](https://img.shields.io/badge/Rich-000000?style=for-the-badge)
 ![Textual](https://img.shields.io/badge/Textual-5E5CE6?style=for-the-badge)
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge)
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
@@ -84,17 +84,16 @@ class AsH:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🤖 Artificial Intelligence & LLM engineering
-- ⚙️ Backend Development
-- 🐧 System Programming
-- 🧠 Data Structures & Algorithms
-- 🚀 Building better projects every day
+-  Artificial Intelligence & LLM engineering
+-  Backend Development
+-  System Programming
+-  Data Structures & Algorithms
+-  Building better projects every day
 
 
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
@@ -103,7 +102,7 @@ class AsH:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:aswanth.ash1312@gmail.com">
