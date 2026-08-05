@@ -1,44 +1,36 @@
 <h1 align="center">Hi 👋, I'm AsH</h1>
 
 <h3 align="center">
-Computer Engineering Student • Python Developer • Linux Enthusiast
+Computer Engineering Student &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; Linux Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Initializing+AsH...;%3E+Loading+Python...;%3E+Loading+Linux+Modules...;%3E+Building+Projects...;%3E+Learning+AI+%26+Backend...;%3E+Open+Source+Enthusiast.;%3E+%E5%BF%83%E8%87%93%E3%82%92%E6%8D%A7%E3%81%92%E3%82%88+%E2%9A%94%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Initializing+AsH...;%3E+Loading+Python...;%3E+Loading+Linux+Modules...;%3E+Building+Projects...;%3E+Learning+AI+%26+Backend...;%3E+Open+Source+Enthusiast.;%3E+%E5%BF%83%E8%87%93%E3%82%92%E6%8D%A7%E3%81%92%E3%82%88+%E2%9A%94%EF%B8%8F" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AsH131211&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=AsH131211&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
 class AsH:
 
     def __init__(self):
-        self.name = "AsH"
+        self.name        = "AsH"
+        self.role        = "Computer Engineering Student"
+        self.os          = ["NixOS", "Linux"]
 
-        self.role = "Computer Engineering Student"
+        self.languages   = ["Python", "C", "Java", "JavaScript", "Haskell", "Bash"]
 
-        self.languages = [
-            "Python",
-            "C",
-            "Java",
-            "JavaScript",
-            "Haskell",
-            "Bash"
-        ]
-
-        self.interests = [
+        self.interests   = [
             "Artificial Intelligence",
-            "Linux",
+            "Linux & System Programming",
             "Backend Development",
-            "System Programming",
-            "Open Source"
+            "Open Source",
         ]
 
     def motto(self):
@@ -47,160 +39,116 @@ class AsH:
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Featured Projects
 
-### 👨‍💻 Programming Languages
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Jarvis**](https://github.com/AsH131211/jarvis) | Iron Man-inspired terminal AI assistant with persistent memory, local LLM support & provider routing | Python · Gemini · llama.cpp |
 
 ---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🌐 Frontend
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 AI & Data Science
 
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Databases
 
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📚 Libraries & Frameworks
 
-![](https://img.shields.io/badge/Rich-000000?style=for-the-badge)
-![](https://img.shields.io/badge/Textual-5E5CE6?style=for-the-badge)
-![](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
-![](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge)
-![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
----
+![Rich](https://img.shields.io/badge/Rich-000000?style=for-the-badge)
+![Textual](https://img.shields.io/badge/Textual-5E5CE6?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🎨 Design
+## 🌱 Currently Learning
 
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🌱 Currently Learning
-
-- 🤖 Artificial Intelligence
+- 🤖 Artificial Intelligence & LLM engineering
 - ⚙️ Backend Development
 - 🐧 System Programming
 - 🧠 Data Structures & Algorithms
-- 🚀 Building Better Projects Every Day
+- 🚀 Building better projects every day
 
 ---
 
-# 🚀 Current Focus
-
-- 🤖 Building AI-powered terminal applications
-- 🐍 Improving Python & System Programming skills
-- ⚡ Exploring Linux, NixOS & Automation
-- 🌐 Learning Backend Development
-- 🌱 Contributing to Open Source
-
----
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AsH131211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsH131211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AsH131211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsH131211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<i>Automatically generated every day using GitHub Actions.</i>
-
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
+  <br/>
+  <i>Automatically generated every day using GitHub Actions.</i>
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AsH131211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AsH131211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:aswanth.ash1312@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AsH131211">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Uncomment after creating LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
-
+  <a href="mailto:aswanth.ash1312@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AsH131211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-# ⚔️ 心臓を捧げよ ⚔️
+## ⚔️ 心臓を捧げよ ⚔️
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Moving+Forward.;Thanks+for+visiting+my+GitHub!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
 
-</div>
-> *"Keep moving forward."*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
+**Built with ❤️, Python, and lots of curiosity.**
 
 </div>
