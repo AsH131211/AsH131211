@@ -39,12 +39,6 @@ class AsH:
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Jarvis**](https://github.com/AsH131211/jarvis) | Iron Man-inspired terminal AI assistant with persistent memory, local LLM support & provider routing | Python · Gemini · llama.cpp |
-
 ---
 
 ## 💻 Tech Stack
@@ -116,15 +110,6 @@ class AsH:
 <p align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AsH131211/AsH131211/output/github-contribution-grid-snake-dark.svg"/>
   <br/>
-  <i>Automatically generated every day using GitHub Actions.</i>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsH131211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ---
@@ -143,12 +128,10 @@ class AsH:
 
 ---
 
-<div align="center">
 
-## ⚔️ 心臓を捧げよ ⚔️
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Moving+Forward.;Thanks+for+visiting+my+GitHub!;See+you+in+the+next+commit.;Happy+Coding!+🚀"/>
 
-**Built with ❤️, Python, and lots of curiosity.**
+**Built with ❤️, and lots of curiosity.**
 
 </div>
